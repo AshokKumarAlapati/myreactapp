@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 class App extends Component {
   render() {
     return (
-      <div>React simple starter</div>
+      <div>welcome to react app</div>
     );
   }
 }
